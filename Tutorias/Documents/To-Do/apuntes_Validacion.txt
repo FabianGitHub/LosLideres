@@ -1,0 +1,60 @@
+01:52 p. m. 25/01/2016
+-¿Que es la OUAPS?
+-Los 10 errores mas comunes segun OUASP
+-Ejemplos
+-herramientas
+
+Realizar una investigacion 
+-calidad de software
+	-¿que es la calidad de software?
+	-¿Por qué es importante?
+	-¿Principales defetos y errores encontrados? y consecuancias
+	-¿Que implementar para dar calidad al software?
+
+
+(Investigar)
+principales defectos del software
+	* ¿Que es error?
+	* ¿Que es defecto?
+	* Tipos de errores y defectos
+	* Ejemplos de c/u
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+01:42 p. m. 22/02/2016
+
+Para llenado de plantilla de pruebas 
+Proyecto no: numero de proyecto 
+Pagina No: Por cada caso de uso se hace una prueba y deben de ir ordenadas.
+Caso no: el estandar que damos a el proyecto caso de prueba numero 1 es altas de usuario o algo asi por porcentaje
+Estado de prueba: es un estandar para ver si es validado o no 
+Ejecucion : aqui va quien lo hizo 
+Escrito por:es quien lleno la plantilla
+Requisito no: Lo que se tiene que introducir o tener para hacer la prueba}
+Descripcion del caso de prueba: Son los diferentes casos de pruebas para el caso de uso y cual es el resultado que deseamos obtener.
+Configuracion de la prueba para ....: Debera ser probado en un cierto tipo de maquina y con requisitos y caracteristicas ya decididas en el equipo.
+
+
+prueba de unidad>>prueba de integracion>>prueba de seguridad>>...(This own)
+
+
+
+
+PLANTILLA DE PLAN DE PRUEBAS 
+Nuevas funcionalidades a probar ---> No aplica !!!
+Prebas de regresion: son volver a probar al momento de agregar cosas nuevas //Hacerlas cada semana
+Funcionalidades a no probar: Por que no se probaran.
+Enfoque de pruebas: Es donde explicamos el procedimiento que se va a seguir para las pruebas
+Criterios de aceptacion y rechazo: es cuando estas ahorcado y decides si esta bien con el porcentaje que ya esta de pruebas.
+Criterios de suspension: Cuando ya se terminaron las pruebas o cuando la cagamos y ya valio !!!
+criterios de reanudación: Cuando se vuelven a hacer
+Entregables: Que se debe de entregar (Documentacion y plantillas llenadas)
+Recursos, requerimientos de hardware: Todo lo referido a nuestro sistema implementado.
+Requerimientos de entorno software: Herramientas de pruebas que ya habiamos visto.
+Procedimientos de las pruebas: Como se desarrollan
+Premisas: Lo que esta establecido, tiempo, tipos de prueba,herramientas, metodologia.
+Dependencias de riesgos: Que riesgos vemos ahorita que no cumplan con el plan y hacer un plan de mitigación.
+
+//12 weeks in the ...
+
+

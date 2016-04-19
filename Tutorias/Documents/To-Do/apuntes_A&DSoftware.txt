@@ -1,0 +1,36 @@
+02:08 p. m. 26/01/2016
+arquitectura y diseño de software
+
+03:37 p. m. 27/01/2016
+arquitectura logica 
+es la estructura de los archivos que componen mi sistema de información, es parecido a un directorio de windows. Esto se hace con el fin de localizar de forma mas rapida y presisa algun error u archivo del proyecto.
+
+Perspectiva dinamica 
+nos muestra como se comunican y nos dice porque se comunican de esa manera. Es mas que nada para establecer el comportamiento.
+
+Perspectiva fisica
+Es la forma en que se implementa, parecido a un mapa de red de los que veiamos en cisco.
+El software se encuentra especifico dentro del hardware. El enfoque va a dar el mejor servicio al cliente.
+Es completamente aceptable que en el diagrama se muestren detalles como lo que es una IP que entra y sale, para tenerla contemplada y que cualquier persona pueda interpretarlo.
+
+Enlaces redundantes, si se cae una linea lo manda a la otra.
+		
+Propiedades visibles
+Comunicacion entre partes del sistema y como se realiza esta comunicacion entre ellas.
+-------------------------------------------------
+Requerimientos de drivers 
+RUs/RFs Requerimientos de usuario y funcionales
+Atributos de calidad con los que va a contar
+Restricciones 
+	* son las reglas del negocio 
+---------------------------------------------------
+Atributos de calidad 
+Estas deben de ser medibles ya que entre mas calidad tiene el software es mas caro el producto.
+Esto permite ver la perspectiva del usuario ante el software.
+
+----------------------------------------------------
+Criterios de eleccion 
+- iportancia para el negocio
+- centrales para el funcionamiento del sistema
+- Retos tecnicos
+
